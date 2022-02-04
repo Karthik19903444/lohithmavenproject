@@ -133,7 +133,7 @@ public class WebDriverUtility {
 		sel.selectByVisibleText(text);
 	}
 	/**
-	 * used to place mouse cursor on specified element
+	 * used to place mouse cursor on specified3 element
 	 * @param driver
 	 * @param elemnet
 	 */
